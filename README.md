@@ -1,4 +1,4 @@
-# Tableau_Visualization
+# Tableau Visualization
 
 In this project, I utilized Tableau to analyze Walmart's retail data and create impactful visualizations. 
 I collected and organized data such as sales figures, inventory data, and customer information. Using 
